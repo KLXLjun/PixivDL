@@ -1,5 +1,4 @@
 ## 简述
-
 ![截图](https://cdn.jsdelivr.net/gh/KLXLjun/blogcdn@1.0.1/img/images/2020/02/20200218152152.png)
 
 使用Python3 
@@ -18,3 +17,5 @@ id下载:
 ```
 python ajaxPixiv.py id 76811597
 ```
+
+[前往我的博客](https://klxljun.gitee.io/)
